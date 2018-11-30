@@ -22,4 +22,4 @@ hystrix:
             timeoutInMilliseconds: 15000
 
 serviceBamboo:
-  multiVersion: crm:3.3.5,spring-cloud-provider:12.0 #调用服务器的版本 用,间隔
+  multiVersion: crm:3.3.5,spring-cloud-provider:1.0 #调用服务器的版本 用,间隔
