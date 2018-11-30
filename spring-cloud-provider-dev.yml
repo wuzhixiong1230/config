@@ -25,8 +25,7 @@ hystrix:
           thread:
             timeoutInMilliseconds: 10000
 
-mybatis:
-  mapperLocations: classpath:mapper/*.xml  #指定*Mapper.xml的位置
+
 
 
 
